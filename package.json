@@ -2,5 +2,8 @@
   "dependencies": {
     "react-redux": "^8.0.2",
     "redux": "^4.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
